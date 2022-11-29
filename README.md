@@ -1,4 +1,4 @@
-### Hi there 👋
+### MIJU PARK
 
 <!--
 **pmiju/pmiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS35-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Python&logoColor=white" /></a>
+</div>
