@@ -1,5 +1,5 @@
 <div align=center>
-### MIJU PARK
+  <h1>MIJU PARK</h1>
 </div>
 
 <!--
