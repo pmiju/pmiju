@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=MIJU%20PARK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MIJU%20PARK&fontSize=90)
 
 <!--
 **pmiju/pmiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +23,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" /></a>
 </div>
 <br>
-
+<div align=center>
+  <h3>TOOLS</h3>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /></a>
+</div>
+<br>
 <div align=center>
   <h3>ABOUT ME</h3>
   <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" /></a>
 </div>
+<br>
+<br>
