@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <h2>ABOUT</h2>
-  [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white" /></a>](https://mijurgojur.tistory.com)
+  <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white" /></a>
 </div>
