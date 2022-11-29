@@ -1,5 +1,5 @@
 <div align=center>
-  <h1>MIJU PARK</h1>
+  <h1 style="font-style:bold">MIJU PARK</h1>
 </div>
 
 <!--
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <div align=center>
   <h3>ABOUT ME</h3>
-  <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white" /></a>
+  <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" /></a>
 </div>
