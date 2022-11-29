@@ -1,4 +1,6 @@
+<div align=center>
 ### MIJU PARK
+</div>
 
 <!--
 **pmiju/pmiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
