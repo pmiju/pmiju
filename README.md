@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MIJU%20PARK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=242a38&height=300&section=header&text=MIJU%20PARK&fontSize=90&fontColor=ffffff)
 
 
 <div align=center>
