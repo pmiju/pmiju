@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
+  <h3>STACK</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS35-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Python&logoColor=white" /></a>
 </div>
 <br>
-<br>
-<br>
+
 <div align=center>
-  <h2>ABOUT</h2>
+  <h3>ABOUT ME</h3>
   <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Python&logoColor=white" /></a>
 </div>
