@@ -20,9 +20,10 @@
 <div align=center>
   <h3>✨ ABOUT</h3>
   <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" /></a>
+  <br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiju&layout=compact)](https://github.com/pmiju/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiju&layout=compact)](https://github.com/pmiju/github-readme-stats)
