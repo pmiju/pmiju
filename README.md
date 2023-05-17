@@ -16,9 +16,6 @@
 </div>
 <br>
 <div align=center>
-  <h3>✨ ABOUT</h3>
-  <a href="https://mijurgojur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" /></a>
-  <br>
 <br>
 <br>
 <br>
