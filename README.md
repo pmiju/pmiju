@@ -19,6 +19,7 @@
 <br>
 <br>
 <br>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiju
+
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiju&layout=compact)
 
