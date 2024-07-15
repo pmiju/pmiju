@@ -18,5 +18,5 @@
 </div>
 <br>
 <div align=center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmiju&layout=compact&theme=dracula)
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a> https://rough-handsaw-2b5.notion.site/3fec8386fc624b3880955bc340a4a044?pvs=4
 </div>
