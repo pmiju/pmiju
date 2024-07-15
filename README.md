@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/IntelliJ-2C2255?style=flat-square&logo=IntelliJ&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" /></a>
 </div>
 <br>
 <div align=center>
