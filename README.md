@@ -21,4 +21,4 @@
 <br>
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmyju01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmyju&layout=compact)
