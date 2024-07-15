@@ -18,6 +18,4 @@
 </div>
 <br>
 <div align=center>
-    <h3>💻 social</h3>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a> <a href="https://rough-handsaw-2b5.notion.site/3fec8386fc624b3880955bc340a4a044?pvs=4">노션 바로가기</a>
 </div>
